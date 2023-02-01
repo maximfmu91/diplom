@@ -780,6 +780,7 @@ text-decoration: none;
   z-index: 2;
   top: 0;
   left: 0;
+  display: flex;
 }
 
 .popup-background {
@@ -791,7 +792,7 @@ text-decoration: none;
 }
 
 .popup-form { 
-  margin: 0 auto;
+  margin: auto;
   background-color: #fff;
   position: relative;
   z-index: 2;
@@ -1409,7 +1410,6 @@ text-decoration: none;
     width: 100%;     
     max-width: 330px;
     padding: 17px 24px 11px 25px;
-    top: 2.2%;
   }
   
   .feedback-header {
@@ -1472,7 +1472,6 @@ text-decoration: none;
   width: 100%;         
   max-width: 390px;
   padding: 44px 29px 30px 30px;
-  top: 12%;
   } 
 } 
 
