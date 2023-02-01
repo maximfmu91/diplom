@@ -769,9 +769,6 @@ text-decoration: none;
 
                                                      /* POPUP */
 
-/* .popup {
-  visibility: hidden;
-} */
 
 .popup { 
   position: fixed;
@@ -781,6 +778,7 @@ text-decoration: none;
   top: 0;
   left: 0;
   display: flex;
+  /* visibility: hidden; */
 }
 
 .popup-background {
